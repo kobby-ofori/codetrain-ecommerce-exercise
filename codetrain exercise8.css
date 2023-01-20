@@ -1,0 +1,53 @@
+body {
+  max-width: 100%;
+}
+
+.content-row {
+  margin-top: ;
+}
+.cart-btn {
+  background-color: black;
+  width: 180px;
+  border: none;
+  border-radius: 0;
+}
+hr {
+  width: 20px;
+  height: 1px;
+  background-color: yellow;
+}
+.custom-card {
+ border: none; 
+}
+#custom-form {
+  width: 170px;
+}
+.top-right-tag {
+  border: 1px solid black;
+  width: 100px;
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 0;
+  right: 0; 
+}
+.size-btn {
+  height: 50px;
+  width: 50px;
+  border: none;
+  border-radius: 50%;
+  background-color: lightgrey;
+}
+.custom-img:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.custom-img {
+  transition: transform .2s;
+}
+.custom-star-btn {
+  margin-left: 25%;
+  background-color: lightgray;
+  color: black;
+  border: none;
+}
